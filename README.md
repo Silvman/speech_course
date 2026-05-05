@@ -46,9 +46,12 @@
     - Seminar: Implement several quantisation methods
     - Homework (10pt): Implement more advanced quantisations and audio codecs
  
-- Week 10 [Lecture](https://disk.yandex.ru/d/4Uv2tOsWcwzDqA)
+- Week 10 [Slides](https://docs.google.com/presentation/d/17_uJGrqkEsFrNspt0lZHreOi6gSKhFREvhH3GXfn-Mk/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/d/4Uv2tOsWcwzDqA)
+    - Lecture: Diffusions and transformers for voice cloning
+    - Homework (10pt): Implement slow-fast transformer inference
 
-- Week 11 [Lecture](https://disk.yandex.ru/i/JddYxXDCXiHo-Q)
+- Week 11 [Slides](https://docs.google.com/presentation/d/1zfo-vvYHKIFZniDuh-afKif8v8O3272uLSAXm7cFyL8/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/JddYxXDCXiHo-Q)
+    - Lecture: Spoken dialogue models
 
 
 <details>
